@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_newest_label</item>
+        <item>@string/settings_order_by_relevance_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_newest_value</item>
+        <item>@string/settings_order_by_relevance_value</item>
+    </string-array>
+
+    <string-array name="settings_sections_labels">
+        <item>@string/settings_sections_all_news_label</item>
+        <item>@string/settings_sections_us_news_label</item>
+        <item>@string/settings_sections_world_news_label</item>
+        <item>@string/settings_sections_opinion_news_label</item>
+        <item>@string/settings_sections_film_news_label</item>
+        <item>@string/settings_sections_football_news_label</item>
+        <item>@string/settings_sections_books_news_label</item>
+        <item>@string/settings_sections_culture_news_label</item>
+        <item>@string/settings_sections_environment_news_label</item>
+    </string-array>
+
+    <string-array name="settings_sections_values">
+        <item>@string/settings_sections_all_news_value</item>
+        <item>@string/settings_sections_us_news_value</item>
+        <item>@string/settings_sections_world_news_value</item>
+        <item>@string/settings_sections_opinion_news_value</item>
+        <item>@string/settings_sections_film_news_value</item>
+        <item>@string/settings_sections_football_news_value</item>
+        <item>@string/settings_sections_books_news_value</item>
+        <item>@string/settings_sections_culture_news_value</item>
+        <item>@string/settings_sections_environment_news_value</item>
+    </string-array>
+</resources>

@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Alaskan News</string>
+    <string name="no_news">No news found.</string>
+    <string name="no_internet">No internet connection.</string>
+
+    <!-- Strings related to the Settings-->
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Earthquake Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings for Order By preference -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_relevance_value</string>
+
+    <!-- Strings for Order By Newest option -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Strings for Order By Relevance option-->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <!-- Strings for Sections preference -->
+    <string name="settings_sections_label">Sections</string>
+    <string name="settings_sections_key" translatable="false">sectionId</string>
+    <string name="settings_sections_default" translatable="false">@string/settings_sections_us_news_value</string>
+
+    <!-- Strings for All Sections -->
+    <string name="settings_sections_all_news_label">All News</string>
+    <string name="settings_sections_all_news_value"></string>
+
+    <!-- Strings for US News Section -->
+    <string name="settings_sections_us_news_label">US News</string>
+    <string name="settings_sections_us_news_value">us-news</string>
+
+    <!-- Strings for World News Section -->
+    <string name="settings_sections_world_news_label">World News</string>
+    <string name="settings_sections_world_news_value">world</string>
+
+    <!-- Strings for Opinion Section -->
+    <string name="settings_sections_opinion_news_label">Opinion</string>
+    <string name="settings_sections_opinion_news_value">commentisfree</string>
+
+    <!-- Strings for Film Section -->
+    <string name="settings_sections_film_news_label">Film</string>
+    <string name="settings_sections_film_news_value">film</string>
+
+    <!-- Strings for Football Section -->
+    <string name="settings_sections_football_news_label">Football</string>
+    <string name="settings_sections_football_news_value">football</string>
+
+    <!-- Strings for Books Section -->
+    <string name="settings_sections_books_news_label">Books</string>
+    <string name="settings_sections_books_news_value">books</string>
+
+    <!-- Strings for Culture Section -->
+    <string name="settings_sections_culture_news_label">Culture</string>
+    <string name="settings_sections_culture_news_value">culture</string>
+
+    <!-- Strings for Environment Section -->
+    <string name="settings_sections_environment_news_label">Environment</string>
+    <string name="settings_sections_environment_news_value">environment</string>
+
+
+
+
+</resources>
